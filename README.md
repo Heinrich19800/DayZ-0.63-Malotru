@@ -22,13 +22,14 @@ Bugs
 -----------
 
  - Please report any bugs [here](https://github.com/Malotruu/test/issues).
- 
+
  
  Updated
 -----------
 
 
 
+	* 21/11/2018: Command add  !list       List of connected players
 	* 20/11/2018: Command      !freeze     Progression 60%
 	* 19/11/2018: Command      !cam        Progression 90%
 	* 19/11/2018: Command      !weapon     Remove
