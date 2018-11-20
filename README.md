@@ -29,7 +29,7 @@ Bugs
 
 
 
-	* 19/11/2018: Command      !freeze     Progression 60%
+	* 20/11/2018: Command      !freeze     Progression 60%
 	* 19/11/2018: Command      !cam        Progression 90%
 	* 19/11/2018: Command      !weapon     Remove
 	* 19/11/2018: Command      !stamina    FIX
