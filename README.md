@@ -3,7 +3,7 @@
 Chat Admin Command
 =================================
 
- - NOTE: Not available at this moment
+ - NOTE: Not available at this moment demands [here](https://github.com/Malotruu/test/issues) 
  - NOTE: Commands [Wiki](https://github.com/Malotruu/test/wiki)  
  - NOTE: Edit L - 51 *Optional spawn admin vybor ! your Steam ID
 
