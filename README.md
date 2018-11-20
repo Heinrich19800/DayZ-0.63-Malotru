@@ -3,9 +3,9 @@
 Chat Admin Command
 =================================
 
- - NOTE: Not available at this moment demands [here](https://github.com/Malotruu/test/issues) 
+ - NOTE: Not available at this moment! demands [here](https://github.com/Malotruu/test/issues) 
  - NOTE: Commands [Wiki](https://github.com/Malotruu/test/wiki)  
- - NOTE: Edit L - 51 *Optional spawn admin vybor ! your Steam ID
+ - NOTE: Edit L - 51 *Optional spawn admin vybor! your Steam ID
 
 
 Installation:
@@ -28,6 +28,8 @@ Bugs
 -----------
 
 
-	* 19/11/2018: Command      !cam        Progression 80%
+
+	* 19/11/2018: Command      !freeze     Progression 60%
+	* 19/11/2018: Command      !cam        Progression 90%
 	* 19/11/2018: Command      !weapon     Remove
 	* 19/11/2018: Command      !stamina    FIX
