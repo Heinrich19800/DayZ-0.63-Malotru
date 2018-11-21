@@ -11,7 +11,7 @@ Chat Admin Command
 Installation
 =================================
 
-1.  Place the init.c folder inside your \DayZServer\mpmissions\dayzOffline.chernarusplus directory.
+1.  Place the init.c  \DayZServer\mpmissions\dayzOffline.chernarusplus
 
 2. Ingame: #login yourpasswordAdmin
 
@@ -28,6 +28,8 @@ Bugs
 -----------
 
 
+	* 21/11/2018: Command  Progress  !zombie
+	* 21/11/2018: Command    Bug     !teleport   Get out of the vehicle first
 	* 21/11/2018: Command  Progress  !cam
 	* 21/11/2018: Command    Add     !punish     Stripped player by an admin and Teleport prison island.
 	* 21/11/2018: Command    Add     !list       List of connected players.
