@@ -8,7 +8,7 @@ Chat Admin Command
  - NOTE: Edit L - 51 *Optional spawn admin vybor! your Steam ID
 
 
-Installation:
+Installation
 =================================
 
 1.  Place the init.c folder inside your \DayZServer\mpmissions\dayzOffline.chernarusplus directory.
@@ -29,8 +29,8 @@ Bugs
 
 
 
-	* 21/11/2018: Command add  !list       List of connected players
-	* 20/11/2018: Command      !freeze     Progression 60%
-	* 19/11/2018: Command      !cam        Progression 90%
-	* 19/11/2018: Command      !weapon     Remove
-	* 19/11/2018: Command      !stamina    FIX
+	* 21/11/2018: Command    Add     !list       List of connected players
+	* 20/11/2018: Command  Progress  !freeze
+	* 19/11/2018: Command  Progress  !cam
+	* 19/11/2018: Command   Remove   !weapon     
+	* 19/11/2018: Command    Fix     !stamina
