@@ -28,8 +28,8 @@ Bugs
 -----------
 
 
-
-	* 21/11/2018: Command    Add     !list       List of connected players
+	* 21/11/2018: Command    Add     !punish     Stripped player by an admin and Teleport prison island.
+	* 21/11/2018: Command    Add     !list       List of connected players.
 	* 20/11/2018: Command  Progress  !freeze
 	* 19/11/2018: Command  Progress  !cam
 	* 19/11/2018: Command   Remove   !weapon     
