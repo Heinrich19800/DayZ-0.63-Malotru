@@ -28,6 +28,9 @@ Bugs
 -----------
 
 
+	* 22/11/2018: Command  Progress  !remove     Add Function [player]
+	* 22/11/2018: Command    Fix     !punish
+	* 22/11/2018: Command    Fix     !strip
 	* 21/11/2018: Command  Progress  !zombie
 	* 21/11/2018: Command    Bug     !teleport   Get out of the vehicle first
 	* 21/11/2018: Command  Progress  !cam
