@@ -23,11 +23,12 @@ Bugs
 
  - Please report any bugs [here](https://github.com/Malotruu/test/issues).
 
- 
+ Update 0.63.149525
  Updated
 -----------
 
 
+	* 22/11/2018: Command   Update               New update 0.63.149525 Remove !sedan - !v3s - v3sc *Broken
 	* 22/11/2018: Command  Progress  !remove     Add Function [player]
 	* 22/11/2018: Command    Fix     !punish
 	* 22/11/2018: Command    Fix     !strip
