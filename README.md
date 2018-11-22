@@ -23,7 +23,7 @@ Bugs
 
  - Please report any bugs [here](https://github.com/Malotruu/test/issues).
 
- Update 0.63.149525
+
  Updated
 -----------
 
