@@ -28,7 +28,8 @@ Bugs
 -----------
 
 
-
+	* 23/11/2018: Command    Add     !akm       Give Full AKM
+	* 23/11/2018: Command  Progress  !m4        Give Full M4A1
 	* 23/11/2018: Command    Add     !spawni    Object generated in the inventory
 	* 23/11/2018: Command  Progress  !stat
 	* 23/11/2018: Command  Progress  !cam
