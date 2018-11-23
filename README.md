@@ -15,7 +15,7 @@ Installation
 
 2. Ingame: #login yourpasswordAdmin
 
-3. Ingame: !heal !offroad !cam…
+3. Ingame: !heal !offroad !camera…
 
 
 Bugs
