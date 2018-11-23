@@ -28,6 +28,8 @@ Bugs
 -----------
 
 
+	* 23/11/2018: Command    Fix     !horde     Spawn (50 Random Zombies) at 50 meters
+	* 23/11/2018: Command    Add     !animals   Spawn (25 Random Animals) at 50 meters
 	* 23/11/2018: Command    Add     !akm       Give Full AKM
 	* 23/11/2018: Command  Progress  !m4        Give Full M4A1
 	* 23/11/2018: Command    Add     !give      Object generated in the inventory
