@@ -27,7 +27,10 @@ Bugs
  Updated
 -----------
 
-
+	* 22/11/2018: Command  Progress  !stat
+	* 22/11/2018: Command  Progress  !cam
+	* 22/11/2018: Command    Add     !builder      
+	* 22/11/2018: Command    Fix     !sniper
 	* 22/11/2018: Command   Update               New update 0.63.149525 Remove !sedan - !v3s - v3sc *Broken
 	* 22/11/2018: Command  Progress  !remove     Add Function [player]
 	* 22/11/2018: Command    Fix     !punish
