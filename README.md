@@ -15,7 +15,7 @@ Installation
 
 2. Ingame: #login yourpasswordAdmin
 
-3. Ingame: !heal !v3s !m4a1 !stamina…
+3. Ingame: !heal !offroad !cam…
 
 
 Bugs
@@ -31,7 +31,7 @@ Bugs
 	* 23/11/2018: Command  Progress  !cam
 	* 23/11/2018: Command    Add     !builder      
 	* 22/11/2018: Command    Fix     !sniper
-	* 22/11/2018: Command   Update               New update 0.63.149525 Remove !sedan - !v3s - v3sc *Broken
+	* 22/11/2018: Command   Update               New update 0.63.149525 Remove !sedan - !v3s - !v3sc *Broken
 	* 22/11/2018: Command  Progress  !remove     Add Function [player]
 	* 22/11/2018: Command    Fix     !punish
 	* 22/11/2018: Command    Fix     !strip
