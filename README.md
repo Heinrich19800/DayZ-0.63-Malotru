@@ -27,6 +27,9 @@ Bugs
  Updated
 -----------
 
+
+
+	* 23/11/2018: Command    Add     !spawni    Object generated in the inventory
 	* 23/11/2018: Command  Progress  !stat
 	* 23/11/2018: Command  Progress  !cam
 	* 23/11/2018: Command    Add     !builder      
