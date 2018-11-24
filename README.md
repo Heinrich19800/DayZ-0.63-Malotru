@@ -1,4 +1,4 @@
-![Logo](https://cdn.discordapp.com/attachments/499241118060511252/514073091375235082/dayzlogo1.png)
+![Logo](https://cdn.discordapp.com/attachments/499241118060511252/516023616974880769/dayz-sa-server-walli.png)
 
 Chat Admin Command
 =================================
@@ -33,28 +33,14 @@ Bugs
 	* 24/11/2018: Command    Fix     !jail      Stripped player by an admin and Teleport prison island.
 	* 24/11/2018: Command    Add     !mp5       Give a complete MP5.
 	* 24/11/2018: Command   Remove   !zombie
-	* 24/11/2018: Command  Progress  !camera
+	* 24/11/2018: Command  Updated   !camera
 	* 24/11/2018: Command    Add     !dean      Spawn (Dean Hall) at 10 meters.
 	* 24/11/2018: Command    Add     !canis     Spawn (15 Canis lupus) at 50 meters.	
 	* 24/11/2018: Command    Fix     !horde     Spawn (50 Random Zombies) at 50 meters.
 	* 24/11/2018: Command    Add     !animals   Spawn (25 Random Animals) at 50 meters.
 	* 23/11/2018: Command    Add     !akm       Give a complete AKM.
-	* 23/11/2018: Command  Progress  !m4        Give a complete M4A1.
+	* 23/11/2018: Command  Updated   !m4        Give a complete M4A1.
 	* 23/11/2018: Command    Add     !give      Object generated in the inventory.
-	* 23/11/2018: Command  Progress  !stat
-	* 23/11/2018: Command  Progress  !cam
 	* 23/11/2018: Command    Add     !builder      
 	* 22/11/2018: Command    Fix     !sniper
 	* 22/11/2018: Command   Update               New update 0.63.149525
-	* 22/11/2018: Command  Progress  !remove     Add Function [player]
-	* 22/11/2018: Command    Fix     !punish
-	* 22/11/2018: Command    Fix     !strip
-	* 21/11/2018: Command  Progress  !zombie
-	* 21/11/2018: Command    Bug     !teleport   Get out of the vehicle first
-	* 21/11/2018: Command  Progress  !cam
-	* 21/11/2018: Command    Add     !punish     Stripped player by an admin and Teleport prison island.
-	* 21/11/2018: Command    Add     !list       List of connected players.
-	* 20/11/2018: Command  Progress  !freeze
-	* 19/11/2018: Command  Progress  !cam
-	* 19/11/2018: Command   Remove   !weapon     
-	* 19/11/2018: Command    Fix     !stamina
