@@ -28,6 +28,8 @@ Bugs
 -----------
 
 
+	* 24/11/2018: Command  Progress  !builder
+	* 24/11/2018: Command   Remove   !zombie
 	* 24/11/2018: Command  Progress  !camera
 	* 24/11/2018: Command    Add     !dean      Spawn (Dean Hall) at 10 meters.
 	* 24/11/2018: Command    Add     !canis     Spawn (15 Canis lupus) at 50 meters.	
