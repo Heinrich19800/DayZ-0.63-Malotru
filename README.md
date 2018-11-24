@@ -28,9 +28,10 @@ Bugs
 -----------
 
 
+	* 24/11/2018: Command  Updated   !builder   Give a complete builder equipment.
+	* 24/11/2018: Command  Updated   !offroad   Vehicles offroad.
 	* 24/11/2018: Command    Fix     !jail      Stripped player by an admin and Teleport prison island.
 	* 24/11/2018: Command    Add     !mp5       Give a complete MP5.
-	* 24/11/2018: Command  Progress  !builder
 	* 24/11/2018: Command   Remove   !zombie
 	* 24/11/2018: Command  Progress  !camera
 	* 24/11/2018: Command    Add     !dean      Spawn (Dean Hall) at 10 meters.
@@ -44,7 +45,7 @@ Bugs
 	* 23/11/2018: Command  Progress  !cam
 	* 23/11/2018: Command    Add     !builder      
 	* 22/11/2018: Command    Fix     !sniper
-	* 22/11/2018: Command   Update               New update 0.63.149525 Remove !sedan - !v3s - !v3sc *Broken
+	* 22/11/2018: Command   Update               New update 0.63.149525
 	* 22/11/2018: Command  Progress  !remove     Add Function [player]
 	* 22/11/2018: Command    Fix     !punish
 	* 22/11/2018: Command    Fix     !strip
