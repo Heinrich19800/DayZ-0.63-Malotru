@@ -27,7 +27,7 @@ Bugs
  Updated
 -----------
 
-
+	* 24/11/2018: Command    Add     !mp5       Give a complete MP5.
 	* 24/11/2018: Command  Progress  !builder
 	* 24/11/2018: Command   Remove   !zombie
 	* 24/11/2018: Command  Progress  !camera
