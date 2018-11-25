@@ -57,5 +57,4 @@ Bugs
 	* 23/11/2018: Command    Add     !give      Object generated in the inventory.
 	* 23/11/2018: Command    Add     !builder      
 	* 22/11/2018: Command    Fix     !sniper
-	* 22/11/2018: Command   Update               New update 0.63.149525
-525
+	* 22/11/2018: Command   Update               New update 0.63.149
