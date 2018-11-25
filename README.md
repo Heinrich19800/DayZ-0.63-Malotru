@@ -22,7 +22,7 @@ Bugs
 -----------
 
  - Please report any bugs [here](https://github.com/Malotruu/test/issues).
- * Command  Teleport   Get out of the vehicle first.
+   * Command  Teleport   Get out of the vehicle first.
 
  Updated
 -----------
